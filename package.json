@@ -1,0 +1,22 @@
+{
+  "name": "js-asynchronism-project-landing",
+  "version": "1.0.0",
+  "description": "This is a landing page created as a project in a platzi course that i started on June 25th of 2025, to learn asynchronism on JavaScipt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseGutierrez02/js-asynchronism-project-landing.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jose Gutierrez <josearmandog02@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseGutierrez02/js-asynchronism-project-landing/issues"
+  },
+  "homepage": "https://github.com/JoseGutierrez02/js-asynchronism-project-landing#readme"
+}
