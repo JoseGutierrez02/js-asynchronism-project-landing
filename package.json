@@ -4,7 +4,7 @@
   "description": "This is a landing page created as a project in a platzi course that i started on June 25th of 2025, to learn asynchronism on JavaScipt",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JoseGutierrez02/js-asynchronism-project-landing/issues"
   },
-  "homepage": "https://github.com/JoseGutierrez02/js-asynchronism-project-landing#readme"
+  "homepage": "https://github.com/JoseGutierrez02/js-asynchronism-project-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
